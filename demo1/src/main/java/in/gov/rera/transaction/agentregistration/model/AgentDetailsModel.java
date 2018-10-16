@@ -21,6 +21,7 @@ import in.gov.rera.master.district.model.DistrictModel;
 
 @Entity(name = "AgentDetailsModel")
 @Table(name = "TL_AGENT_REG_DETAILS_MODEL")
+//sfdsadasd
 public class AgentDetailsModel implements Serializable {
 	
 	/**
